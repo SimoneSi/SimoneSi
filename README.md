@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Pra conteúdo sobre programação você pode me seguir na rede abaixo!
  
 <div> 
   <a href="https://www.instagram.com/simone.lima5/" target="_blank"><img src="he-FF0000?style=for-ttps://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
